@@ -1,4 +1,4 @@
-body {background-color:#008822;
+body {background-color:#2786bd;
 }
 
 h1 {color:red;
@@ -19,4 +19,8 @@ ul {background-color: #555555
 #imagem-um {width: 70%;
 	border-style: solid;
 	border-color: red;
+}
+li{
+	color: aliceblue;
+	font-weight: bold;
 }
